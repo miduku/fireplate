@@ -5,7 +5,7 @@ This Boilerplate is mobile-first ready and has been inspired by [Motherplate](ht
 ## How to get started
 1. Start your Project with [FireShell](http://getfireshell.com).
 2. Don't 'build' your project yet.
-3. Copy the folders `release/app/` and `release/app/` into your projects root folder. Some files will be overwritten.
+3. Copy the folders `release/app/` and `release/src/` into your projects root folder. Some files will be overwritten.
 4. Enjoy.
 
 ### Webfonts (e.g. Google Fonts)
