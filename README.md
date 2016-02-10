@@ -1,3 +1,5 @@
+**This Repo isn't actively maintained anymore since I've changed on using Gulp instead of Grunt. I've moved this Project to a new Repo ([FastPlate](https://github.com/miduku/fastplate)) as well**
+
 # FirePlate
 A Barebones Responsive SCSS Boilerplate to get started with FireShell.
 This Boilerplate is mobile-first ready and has been inspired by [Motherplate](https://github.com/leemunroe/motherplate).
